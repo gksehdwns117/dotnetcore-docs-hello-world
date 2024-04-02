@@ -21,4 +21,4 @@ steps:
     azureSubscription: 'Visual Studio Enterprise – MPN(6fdcf91d-35b1-4791-a1b8-321255b21252)'
     appType: 'webApp'
     WebAppName: 'aegis-test-0117'
-    packageForLinux: '$(System.DefaultWorkingDirectory)/**/*.zip'
+    package: '$(System.DefaultWorkingDirectory)/**/*.zip'
