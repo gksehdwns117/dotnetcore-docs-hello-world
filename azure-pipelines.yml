@@ -19,6 +19,6 @@ steps:
   inputs:
     azureSubscription: 'Visual Studio Enterprise – MPN(6fdcf91d-35b1-4791-a1b8-321255b21252)'
     appType: 'webApp'
-    appName: 'aegis-test-0117'
+    appName: 'aegis-test-0118'
     package: '$(System.DefaultWorkingDirectory)/**/*.zip'
     deploymentMethod: 'auto'
